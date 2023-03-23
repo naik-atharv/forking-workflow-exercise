@@ -3,7 +3,7 @@ Taco Recipe with Spices
 Ingredients: 
 * 3 Taco Shells 
 * 1 pound minced meat or paneer 
-* 1 can Kidney beans 
+* 1.5 can Kidney beans 
 * 1 tsp. Taco seasoning mix
 * 1 tsp. Garam Masala
 * 1 tsp. Red chili powder
